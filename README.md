@@ -1,15 +1,16 @@
 # FurEver
-## **Team Members**
+Ui/Ux Project for Avengers team under the supervision of Digital Egypt Pioneers Initiative.
+## **Team Members (Avengers)** 
 
-Omar Ali Sayed
+- Omar Ali Sayed
 
-Ali Mandor Ali
+- Ali Mandor Ali
 
-Shehab Eldeen Mahrous 
+- Shehab Eldeen Mahrous 
 
-Amr Maged Mohamed
+- Amr Maged Mohamed
 
-Reda Mohamed Fahmy
+- Reda Mohamed Fahmy
 
 ## **Project Description**
 
