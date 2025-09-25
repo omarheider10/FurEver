@@ -38,4 +38,7 @@ Timeline:
 - Week 2 (29/8 - 5-9): SWOT analysis, survey & interview preparation: We completed a SWOT analysis (PDF) and prepared detailed survey and interview questions.
 - Week 3 (5/9 - 19/9): Surveys & interviews results: We created and shared a Google Docs survey, refined our interview questions, interviewed 9 people, and collected data we needed from them.
 
+## **Project Links** 
+
+https://www.figma.com/slides/pQkFQzglqiz645kuR9vlA2/FurEver-Presentation?node-id=98-99&t=LSeEA3MBdScBrjY0-1
 
